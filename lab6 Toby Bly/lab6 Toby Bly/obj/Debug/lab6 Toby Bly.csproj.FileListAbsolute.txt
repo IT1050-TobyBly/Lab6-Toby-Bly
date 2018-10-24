@@ -1,0 +1,7 @@
+F:\lab6 Toby Bly\lab6 Toby Bly\bin\Debug\lab6 Toby Bly.exe.config
+F:\lab6 Toby Bly\lab6 Toby Bly\bin\Debug\lab6 Toby Bly.exe
+F:\lab6 Toby Bly\lab6 Toby Bly\bin\Debug\lab6 Toby Bly.pdb
+F:\lab6 Toby Bly\lab6 Toby Bly\obj\Debug\lab6 Toby Bly.csprojAssemblyReference.cache
+F:\lab6 Toby Bly\lab6 Toby Bly\obj\Debug\lab6 Toby Bly.csproj.CoreCompileInputs.cache
+F:\lab6 Toby Bly\lab6 Toby Bly\obj\Debug\lab6 Toby Bly.exe
+F:\lab6 Toby Bly\lab6 Toby Bly\obj\Debug\lab6 Toby Bly.pdb
